@@ -16,7 +16,6 @@ async function main() {
   
   const transport = new StdioServerTransport();
   await server.connect(transport);
-  console.info("App Store MCP Server running on stdio");
 }
 
 main().catch((error) => {
