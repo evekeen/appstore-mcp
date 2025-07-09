@@ -1,4 +1,4 @@
-# Apple App Store MCP Server
+# AppStore MCP
 
 An MCP (Model Context Protocol) server that provides search functionality for the Apple App Store.
 
