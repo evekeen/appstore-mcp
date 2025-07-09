@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "MCP server for searching Apple App Store",
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.15.0",
